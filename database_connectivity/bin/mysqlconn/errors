@@ -1,0 +1,2 @@
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table (id,country,capital) values(
+The error above was returned because the table name is set to the wrong value.
